@@ -16,7 +16,7 @@ int main() {
     std::string lName;
     std::cin >> lName;
 
-    std::cout << "Welcome to C++ Programming, " << fName << " " << lName << "!";
+    std::cout << "Welcome to C++ Programming, " << fName << " " <<lName << "!";
 
     return 0;
 }
